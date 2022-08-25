@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=BAE_DONG_JOON&fontSize=70&fontColor=FFFFFF)
-
-
-<h3 align="center"> 반갑습니다 🙌</h3>
-
 <!--
 **baedonguri/baedonguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +11,25 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h3 align="center"> 반갑습니다 🙌</h3>
+<p> 성장을 통해 즐거움을 느끼는 개발자 baedonguri 입니다. </p>
 <!--Here is my LinkedIn profile if you're interested in me.-->
 
 
 <br>
 
 
-<!--<h3 align="center">💻 Tech Stack 💻</h3>-->
+<h3 align="center">💻 Tech Stack 💻</h3>
+<div class="stack">
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-41454A?style=flat&logo=flask&logoColor=wlightgrey"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-83B81A?style=flat&logo=MongoDB&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+  <br />
+  <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+</div>
 
 <!--
 <p align="center">*------ 🌳 Used as main ------*</p>
