@@ -10,7 +10,7 @@
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div class="stack" align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.JS&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Flask-41454A?style=flat&logo=flask&logoColor=wlightgrey"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-83B81A?style=flat&logo=MongoDB&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
