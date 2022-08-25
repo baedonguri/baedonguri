@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFB7C8,100:FF6D90&height=150&section=header&text=BAE_DONG_JOON&fontSize=70&fontColor=FFFFFF)
 
 <h3 align="center"> 반갑습니다 🙌</h3>
-<p> 성장을 통해 즐거움을 느끼는 개발자 배동준 입니다. </p>
+<p align="center"> 성장을 통해 즐거움을 느끼는 개발자 배동준 입니다. </p>
+<p align="center"> 커뮤니케이션을 통해 문제를 해결해나가는 것을 좋아합니다. </p>
+
 
 <br>
 
