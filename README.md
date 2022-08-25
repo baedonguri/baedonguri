@@ -16,9 +16,6 @@
 - ⚡ Fun fact: ...
 -->
 
-
-
-Recently completed a CS-focused coding bootcamp (https://swjungle.net/).
 <!--Here is my LinkedIn profile if you're interested in me.-->
 
 
