@@ -18,7 +18,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
-
+  <br/><br/>  
 
   [![Dongjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=baedonguri&theme=tokyonight&line_height=20)](https://github.com/baedonguri/github-readme-stats) 
 
